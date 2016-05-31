@@ -141,18 +141,18 @@ button {
     border-radius: 2px;
     background: #FCFCFC;
     font-size: 16px;
-    border: solid 1px #ddd;
+    border: solid 2px #ddd;
     color: #444;
 }
 
 button:hover {
-    background: #F4F4F4;
-    border: solid 1px #ccc;
+    background: #F0F4F4;
+    border: solid 2px #ccc;
 }
 
 button:active {
-    background: #FEFEFE;
-    border: solid 1px #ddd;
+    background: #ededed;
+    border: solid 2px #ddd;
 }
 
 button:focus {
